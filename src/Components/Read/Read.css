@@ -1,0 +1,54 @@
+.radio-btn {
+    display: flex;
+    justify-content: center;
+
+}
+
+.details {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 50px;
+    text-align: center;
+    /* border: 1px solid black; */
+    /* width: 100px; */
+    background-color: aliceblue;
+    height: 300px;
+
+}
+
+.form-check-input {
+    margin-left: 20px;
+}
+
+button {
+    width: 100px;
+    margin-left: 20px;
+    width: 100px;
+    height: 40px;
+    background-color: rgb(41, 13, 59);
+    color: white;
+    font-size: 18px;
+    /* font-weight: 400; */
+    border-radius: 5px;
+}
+
+.btn-grp {
+    display: flex;
+    justify-content: center;
+    margin-left: 20px;
+}
+
+.data-contents {
+    margin-top: 10px;
+    color: rgb(4, 4, 51);
+    height: 200px;
+    width: 800px;
+    border-radius: 10px;
+    color: black;
+}
+
+.read-div{
+    display: flex;
+    justify-content: center;
+}
